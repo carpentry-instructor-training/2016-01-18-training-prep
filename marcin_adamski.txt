@@ -1,0 +1,4 @@
+My name is Marcin Adamski. I am a bioinformatician at ANU Research School of Biology. 
+I am supporting computational aspects of other peoples' projects, planning to run some 
+bioinformatics workshops and doing a bit of my own research in genomics, transcriptomics 
+and molecular phylogeny.
