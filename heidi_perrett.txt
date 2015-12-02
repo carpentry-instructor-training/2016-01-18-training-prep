@@ -1,0 +1,5 @@
+My name is Heidi Perrett. 
+I work for eResearch Services Support at Griffith University as a Senior Software Engineer.
+I am responsible for providing support to the clients and product owners of our applications and services
+as well as maintaining the applications and services and working on improving our workflow processes.
+I attended a few Software Carpentry courses as a helper this year (2015) at the University of Queensland.
