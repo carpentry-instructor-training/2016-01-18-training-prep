@@ -1,0 +1,6 @@
+Bonjour! 
+My name is Martin Héroux. 
+I am a physiotherapist by training, but now work as a neuroscientist (sounds fancy!).
+My area of expertise is human sensory and motor physiology.
+I am a self-taught coder, so I have lots of bad habits to undo and many good habits to learn.
+I hope that my own experience learning to code and work with data can help others discover better ways to do research.
