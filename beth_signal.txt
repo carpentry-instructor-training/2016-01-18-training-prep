@@ -1,0 +1,4 @@
+Hi! My name is Beth Signal. 
+I'm a PhD Student at the Garvan Institute in Sydney. 
+I do a lot of transcriptomics analyses, mostly looking at temporal profiling and long noncoding RNAs, and have a particular interest in applications of machine learning to these topics.
+I've been coding for ~3 years in R (daily), bash/unix (daily) and python (when the need arises).
