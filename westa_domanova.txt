@@ -1,0 +1,1 @@
+My PhD project is quantitatively analysing intracellular signalling pathways using mass spectrometry protein phosphorylation data.
