@@ -1,0 +1,4 @@
+I'm currently the Manager of Research Data Services at James Cook University. 
+My role is to operationalise services funded under RDSI. These services include DashNet and Mediaflux. 
+DashNet is a network linking different data nodes around the coutnry for high speed data transport and collaboration.
+Mediaflux is a system that makes larges amounts of data searchable by storing/extracting metadata about that data.
